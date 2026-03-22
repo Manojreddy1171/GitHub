@@ -1,0 +1,6 @@
+cd /C/Users/manoj/OneDrive/Desktop/Github
+git init
+git clone
+git add .
+git commit -m "message"
+git push
